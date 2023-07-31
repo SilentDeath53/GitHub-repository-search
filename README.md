@@ -3,7 +3,7 @@ Searches GitHub repositories based on specific criteria using the GitHub REST AP
 
 - Run the program with the following command:
 
-  $ ballerina run github-repo-search.bal
+  $ ballerina run searcher.bal
 
 
 # Created By Silent Death_53
